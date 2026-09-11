@@ -18,11 +18,13 @@ namespace CarModels
         public void Accelerate()
         {
         speed = speed + 10;
+        Console.WriteLine($"Speed:{speed}");
         }
 
         public void Brake()
         {
             speed = speed - 10;
+            Console.WriteLine($"Speed:{speed}");
         }
     }
 
