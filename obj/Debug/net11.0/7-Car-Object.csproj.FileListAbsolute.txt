@@ -1,0 +1,17 @@
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.exe
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.deps.json
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.runtimeconfig.json
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.runtimeconfig.dev.json
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.dll
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\bin\Debug\net11.0\7-Car-Object.pdb
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.AssemblyInfoInputs.cache
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.AssemblyInfo.cs
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.csproj.CoreCompileInputs.cache
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.sourcelink.json
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.dll
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\refint\7-Car-Object.dll
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.pdb
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Object.genruntimeconfig.cache
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\ref\7-Car-Object.dll
+C:\Users\kyros\Assignments\OOP\OOP-Assignments\Car-Object-Assignment\7-Car-Object\obj\Debug\net11.0\7-Car-Ob.6150E809.Up2Date
